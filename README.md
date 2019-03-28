@@ -9,3 +9,9 @@ Trainingszeit = Wert in Sekunden angeben. So lange läuft die Übung
 Intervall = Wert in Sekunden. So lange Pause bis die nächste LED leuchtet.
 
 Eine Beschreibung der Hardware kommt später.
+
+
+TODO:
+- Intervall-Zeit soll Float-Variable sein. Evtl Vorschläge.
+- Auswahl zufällige Interval-Zeit im Bereich x bis y
+- Grafische Darstellung der Zeit in der Statistik
